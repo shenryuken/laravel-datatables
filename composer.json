@@ -1,6 +1,6 @@
 {
     "name": "shenryuken/laravel-datatables",
-    "version": "1.0.0",
+    "version": "dev-main",
     "description": "A dynamic DataTables plugin for Laravel using Tailwind CSS and Alpine.js",
     "type": "library",
     "license": "MIT",
@@ -12,7 +12,8 @@
     ],
     "require": {
         "php": "^8.1",
-        "laravel/framework": "^11.0"
+        "laravel/framework": "^11.0",
+        "shenryuken/laravel-datatables": "*"
     },
     "autoload": {
         "psr-4": {
