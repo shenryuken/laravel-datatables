@@ -1,6 +1,14 @@
 # Laravel DataTables
 
-A dynamic DataTables plugin for Laravel using Tailwind CSS and Alpine.js.
+A dynamic DataTables plugin for Laravel using Tailwind CSS and Alpine.js. This package provides an easy way to create responsive, searchable, and sortable tables in your Laravel application.
+
+## Features
+
+-   Easy integration with Laravel
+-   Responsive design using Tailwind CSS
+-   Dynamic data loading with Alpine.js
+-   Customizable columns and styling
+-   Pagination support
 
 ## Installation
 
