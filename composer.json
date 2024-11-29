@@ -3,7 +3,6 @@
     "version": "dev-main",
     "description": "A dynamic DataTables plugin for Laravel using Tailwind CSS and Alpine.js",
     "type": "library",
-    "homepage": "https://github.com/shenryuken/laravel-datatables",
     "license": "MIT",
     "authors": [
         {
@@ -30,3 +29,4 @@
     "minimum-stability": "dev",
     "prefer-stable": true
 }
+
