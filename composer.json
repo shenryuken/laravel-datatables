@@ -1,0 +1,30 @@
+{
+    "name": "shenryuken/laravel-datatables",
+    "description": "A dynamic DataTables plugin for Laravel using Tailwind CSS and Alpine.js",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@example.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "laravel/framework": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shenryuken\\LaravelDatatables\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Shenryuken\\LaravelDatatables\\DataTablesServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
