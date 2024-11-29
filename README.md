@@ -67,12 +67,3 @@ This will publish the component views to `resources/views/vendor/laravel-datatab
 ## License
 
 This package is open-sourced software licensed under the MIT license.
-
-9. Create a `.gitignore` file in the root of your package:
-
-```text file=".gitignore"
-/vendor
-.idea
-.vscode
-.DS_Store
-```
